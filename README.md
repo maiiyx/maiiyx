@@ -1,5 +1,5 @@
-
-
+<div><a href="https://github.com/MMVonnSeek"><img height="151em" src="https://github-readme-stats.vercel.app/api?username=MMVonnSeek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMVonnSeek&layout=compact&langs_count=7&theme=algolia"/>
+</div>  
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" style="max-width: 100%;">
 
