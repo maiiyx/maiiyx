@@ -7,4 +7,4 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Max-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/maiiyx)
+
